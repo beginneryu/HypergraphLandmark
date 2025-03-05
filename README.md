@@ -4,15 +4,17 @@ the  implement of paper "Hypergraph-driven Landmark Detection Foundation Model o
 
 # Innovative
 1.We propose an innovative hypergraph-based landmark detection foundation model for echocardiograms which was trained on large scale echocardiography datasets. This method directly quantifies cardiac function using extracted landmark infor- mation while providing interpretability.
+
 2.We developed a hypergraph-based feature extraction backbone that integrates a hypergraph dynamic system with an adaptive hypergraph structure to capture higher-order relationships within images.  By leveraging hypergraph dynamic systems, it offers enhanced controllability and stability while enabling the cap- ture of long-range correlations between vertices.
+
 3.We introduce a Bidirectional Hypergraph Spatio-Temporal (BHST) decoding module.  The hypergraph-based spatial awareness captures spatial relationships between landmarks. Additionally, bidirectional temporal perception is incorpo- rated, enabling landmark predictions in the current frame to be informed by both previous and subsequent frames, thus improving accuracy and consistency.
+
 4.Our method has been trained and evaluated on large scale datasets (more than 10000 patients). The results demonstrate that our method not only outperforms other approaches in landmark detection but also achieves accurate cardiac func- tion quantification, closely aligning with the results from human experts and commercial tools.
 
 # Dataset
 
 EchoNet-Dynamic dataset https://echonet.github.io/dynamic/
 CAMUS dataset https://www.creatis.insa-lyon.fr/Challenge/camus/
-
 
 
 # Data organization
