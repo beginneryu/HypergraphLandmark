@@ -10,7 +10,7 @@ the  implement of paper "Hypergraph-driven Landmark Detection Foundation Model o
 
 # Dataset
 
-EchoNet-Dynamic dataset https://www.cardiacatlas.org/atriaseg2018-challenge/atria-seg-data/](https://echonet.github.io/dynamic/)  
+EchoNet-Dynamic dataset https://echonet.github.io/dynamic/
 CAMUS dataset https://www.creatis.insa-lyon.fr/Challenge/camus/
 
 
