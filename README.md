@@ -1,6 +1,6 @@
 # Paper
 the  implement of paper "Hypergraph-driven Landmark Detection Foundation Model on Echocardiography for Cardiac Function Quantification"
-![image](https://github.com/beginneryu/HypergraphLandmark/blob/main/method.pdf)
+![image](https://github.com/beginneryu/HypergraphLandmark/blob/main/method.jpg)
 # Innovative aspects of the work
 1.We propose an innovative hypergraph-based landmark detection foundation model for echocardiograms which was trained on large scale echocardiography datasets. This method directly quantifies cardiac function using extracted landmark infor- mation while providing interpretability.
 2.We developed a hypergraph-based feature extraction backbone that integrates a hypergraph dynamic system with an adaptive hypergraph structure to capture higher-order relationships within images.  By leveraging hypergraph dynamic systems, it offers enhanced controllability and stability while enabling the cap- ture of long-range correlations between vertices.
